@@ -5,3 +5,9 @@
 Add Line
 новая строка
 добавили еще одну строку.
+ADD LINE' >> File1.txt
+cat File1.txt
+echo ADD LINE >> File1.txt
+cat File1.txt
+echo "ADD LINE
+ADD LINE
